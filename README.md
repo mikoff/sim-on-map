@@ -33,6 +33,9 @@ python trajectory_picker.py
 ```
 
 ## License
+This project is licensed under the MIT License.
+
+## References
 The inspiration for implementation was taken from:
 - https://github.com/Aceinna/gnss-ins-sim
 - http://www.instk.org/
